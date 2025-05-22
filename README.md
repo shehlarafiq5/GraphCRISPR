@@ -67,3 +67,17 @@ pip install -r requirements.txt
 ```sh
 python graphcrispr.py 
 ```
+📂 Datasets
+The Data/ folder contains:
+
+pos_dataset.csv: Positive off-target sgRNA-target pairs
+
+neg_dataset.csv: Negative (non-target or safe) pairs
+
+Each file includes:
+
+sgRNA sequence
+
+Target sequence
+
+Additional context features (e.g., GC content, chromatin state)
