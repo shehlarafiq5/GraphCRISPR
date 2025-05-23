@@ -9,11 +9,6 @@
 
 This repository contains code, data processing scripts, and model implementations used in the associated paper:
 
-**📘 Citation:**  
-> _GraphCRISPR: Harnessing Graph Neural Networks for Off-Target Minimization in Genome Editing_  
-> _Shehla Rafiq, Assif Assad, Tariq Ahmad Masoodi, Muzafar Ahmad Macha, Muzafar Rasool Bhat_  
-> [Add journal name / preprint link if available]
-
 ---
 
 ## 🧬 Key Features
@@ -81,3 +76,10 @@ sgRNA sequence
 Target sequence
 
 Additional context features (e.g., GC content, chromatin state)
+
+📬 ## Contact
+For questions or collaborations, contact:
+
+Shehla Rafiq – [shehlarafiq5@gmail.com]
+
+
