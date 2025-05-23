@@ -77,7 +77,7 @@ Target sequence
 
 Additional context features (e.g., GC content, chromatin state)
 
-📬 ## Contact
+📬 # Contact
 For questions or collaborations, contact:
 
 Shehla Rafiq – [shehlarafiq5@gmail.com]
